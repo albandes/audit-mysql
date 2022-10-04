@@ -1,0 +1,26 @@
+{
+    "name": "albandes/audit",
+    "description": "A class to audit mysql tables",
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Rogerio Albandes",
+            "email": "rogerio.albandes@gmail.com"
+        },
+        {
+            "name": "Valentin Acosta",
+            "email": "vilaxr@gmail.com"
+        }
+    ],
+    "support": {
+          "email": "rogerio.albandes@gmail.com"
+    },    
+    "autoload": {
+        "psr-4": {"Albandes\\": "src/"}
+    },    
+    "require": {
+        "php": ">=5.4",
+        "vlucas/phpdotenv": "^5.4",
+        "monolog/monolog": "^2.8"
+    }
+}

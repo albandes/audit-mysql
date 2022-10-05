@@ -7,7 +7,7 @@ Based on these data it is possible to audit the tables of a mysql database.
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://github.com/albandes/helpdezk/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
+Please read [CONTRIBUTING.md](https://github.com/albandes/audit-mysql/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 

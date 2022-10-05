@@ -2,7 +2,7 @@
 Class used to record changes (Insert, Update and Delete) in the tables of a Mysql database in JSON format.
 Based on these data it is possible to audit the tables of a mysql database.
 
-This class is part of [the HelpDEZK team](https://github.com/albandes/helpdezk) and is maintained by the development team and contributors.
+This class is part of [HelpDEZK Project](https://github.com/albandes/helpdezk) and is maintained by the development team and contributors.
 
 ## Example
 * example.php: Example to generate the triggers to be used
